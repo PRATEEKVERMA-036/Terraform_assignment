@@ -1,6 +1,5 @@
 Problem:
-![Problem](https://github.com/PRATEEKVERMA-036/dbre_assignment/blob/main/Screenshot_20230307_223607_Samsung%20Internet.jpg)
-![alt text](https://github.com/PRATEEKVERMA-036/dbre_assignment/blob/master/Screenshot_20230307_223607_Samsung%20Internet.jpg)
+![alt text](https://github.com/PRATEEKVERMA-036/dbre_assignment/blob/master/Screenshot_20230307_223607_Samsung%20Internet.jpg "Problem")
 
 
 How to run the provision------------------>
